@@ -37,7 +37,7 @@ TABLE => `paytm`
 
  `id` | `custid` | `gen-id` | `stts` |  `data`  |
  
-  1. cust_id and random order_id inserted into db
+  1. cust_id and random order_id inserted into db on  pgRedirected.php page
   2. and auto redirects to paytm api via pgRedirect.php page
   3. on response page [pgResponse.php], we've got order_id on response data as well as we can get cust_id,id from db by mysqli fetch
   4. if response txn status success then updates stts=ok on db against cust_id/id 
