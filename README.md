@@ -36,13 +36,6 @@
 TABLE => `paytm` 
 
  `id` | `custid` | `gen-id` | `stts` |  `data`  |
- ________________________________________________
-   1 |     c1    |    od1   |  ok    |          |
- ________________________________________________
-   2 |     c2    |    od2   |  ok    |          |
- ________________________________________________
-   3 |     c3    |    od3   |        |          |
- ________________________________________________
  
   1. cust_id and random order_id inserted into db
   2. and auto redirects to paytm api via pgRedirect.php page
