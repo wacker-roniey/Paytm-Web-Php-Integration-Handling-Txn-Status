@@ -1,7 +1,8 @@
-``` Paytm Web/Php Integration with mysql db Handling Txn success and failure Case```
-``` @Dated : Year-2020 ```
-``` @Credited : Paytm Devlopers Team ```
-``` @Original : https://github.com/Paytm-Payments/Paytm_Web_Sample_Kit_PHP ```
+# Paytm Web/Php Integration with mysql db Handling Txn success and failure Case
+ @Dated : Year-2020 
+ @Credited : Paytm Devlopers Team 
+ 
+ ```@Original : https://github.com/Paytm-Payments/Paytm_Web_Sample_Kit_PHP ```
 
 # How to install the sample kit on a web server:
  1. Copy PaytmKit folder in document root of your server (like /var/www/html)
