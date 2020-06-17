@@ -46,8 +46,8 @@ $paramList["WEBSITE"] = PAYTM_MERCHANT_WEBSITE;
 
 
 $paramList["CALLBACK_URL"] = "http://localhost/api/paytm/pgResponse.php";
-$paramList["MSISDN"] = '9083091854'; //Mobile number of customer
-$paramList["EMAIL"] = 'md.irfanali00101@gmail.com'; //Email ID of customer
+$paramList["MSISDN"] = 'XXXXXXXXXX'; //Mobile number of customer
+$paramList["EMAIL"] = 'XXXXXXXXXX'; //Email ID of customer
 $paramList["VERIFIED_BY"] = "EMAIL"; //
 $paramList["IS_USER_VERIFIED"] = "YES"; //
 
